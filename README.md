@@ -1,13 +1,13 @@
 Data science incubator miniproject: Social graphs
 
 [New York Social Diary](http://www.newyorksocialdiary.com/) provides a
-fascinating lens onto New York's socially well-to-do.  The data forms a natural
-social graph for New York's social elite.  Take a look at this page of a recent
+fascinating insight into the life of New York's social elite.  The data forms a natural
+social graph.  Take a look at this page of a recent
 run-of-the-mill holiday party:
 
 `http://www.newyorksocialdiary.com/party-pictures/2014/holiday-dinners-and-doers`
 
-Besides the brand-name celebrities, you will notice the photos have carefully
+You will notice the photos have carefully
 annotated captions labeling those that appear in the photos.  We can think of
 this as implicitly implying a social graph: there is a connection between two
 individuals if they appear in a picture together.
