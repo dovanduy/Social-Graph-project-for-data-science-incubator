@@ -1,4 +1,4 @@
-Miniproject for TDI program: Social graphs
+Data science incubator miniproject: Social graphs
 
 [New York Social Diary](http://www.newyorksocialdiary.com/) provides a
 fascinating lens onto New York's socially well-to-do.  The data forms a natural
